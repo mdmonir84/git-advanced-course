@@ -11,6 +11,8 @@ function multiply(a, b) {
   return a*b;
 }
 
+// Implement this function in a different
+// git branch to mimic real life work scenario
 function division() {
   return "WIP";
 }
