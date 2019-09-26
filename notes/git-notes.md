@@ -227,3 +227,8 @@ git merge test        // Merge & bring it back to master
 
 ### Git Rebase
 ![alt text]( ../images/git-rebase.png "Git rebase")
+
+
+Reference :
+- [Pro Git](https://git-scm.com/book/en/v2)
+- [Git Tutorial by Corey Schafer](https://www.youtube.com/watch?v=FdZecVxzJbk&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=2)
