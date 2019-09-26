@@ -3,12 +3,12 @@ function add(a, b) {
   return a+b;
 }
 
-function substract() {
+function substract(a, b) {
   return a-b;
 }
 
-function multiply() {
-  return "WIP";
+function multiply(a, b) {
+  return a*b;
 }
 
 function division() {
@@ -16,3 +16,4 @@ function division() {
 }
 
 console.log(`addition of 10+20 = ${add(10,20)}`);
+console.log(`addition of 10*20 = ${multiply(10,20)}`);
